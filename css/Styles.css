@@ -63,7 +63,7 @@
             grid-column: 10px 1fr 10px 1fr 10px; /*10px columns to spacing in between*/
             grid-row: 100px 1fr 1fr; /*100px row and two rows each taking 1 fraction
                                               of available space*/
-            margin: px;
+            margin: 5px;
             grid-template-areas: "head head head"
         }
         #myheader {
